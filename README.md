@@ -1,4 +1,4 @@
-# Text-Summarization-Extractive-Approach
+# Text-Summarization
 
 This project aims to demonstrate text summarization using an extractive approach with the spaCy library for natural language processing.
 
